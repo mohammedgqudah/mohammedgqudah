@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 Discord: 0hyperr
+
+Tools:
+- Rust
+- Python
+- Kubernetes
 <!--
 **mohammedgqudah/mohammedgqudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
