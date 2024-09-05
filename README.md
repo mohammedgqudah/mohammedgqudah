@@ -4,6 +4,7 @@ Discord: 0hyperr
 
 Tools:
 - Rust
+- C
 - Python
 - Kubernetes
 <!--
