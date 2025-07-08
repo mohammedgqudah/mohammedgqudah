@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I enjoy low-level programming :)
+
+Intrested in: Operating Systems, Databases and distributed systems.
+
+
 Discord: 0hyperr
 
 Tools:
@@ -7,6 +12,9 @@ Tools:
 - C
 - Python
 - Kubernetes
+
+Want to learn:
+- Haskell
 <!--
 **mohammedgqudah/mohammedgqudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
