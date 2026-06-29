@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I enjoy low-level programming :)
+I enjoy systems programming :)
 
 Intrested in: Operating Systems, Databases and distributed systems.
 
